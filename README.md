@@ -5,6 +5,7 @@ I wrote all the code and all, and took every assets from internet
 
 Here are every assets I used:
 
+
 ## Art:
 
 SpriteSheet: https://lazy-fox.itch.io/snake-asset (web-site: itch io/ author: Lazy Fox)
@@ -14,6 +15,7 @@ Font: https://www.dafont.com/minecraft.font (web-site: dafont/ author: Crafton G
 Button main menu: https://sketpixel.itch.io/freebuttonspixelanimation (web-site: itch io/ author: sketpixel)
 
 Main menu background: https://www.artstation.com/artwork/m8mN0E (web-site: artstation/ author: Szymon Rysuje)
+
 
 ## Sound:
 
