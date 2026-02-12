@@ -30,5 +30,7 @@ https://pixabay.com/music/video-games-8-bit-game-music-122259/ (web-site: pixaba
 https://pixabay.com/sound-effects/film-special-effects-8-bit-game-over-sound-effect-331435/ (web-site: pixabay/ author: Lesiakower)
 
 
-## Released: 
+## Released:
+
+Link to the game download: https://github.com/Azertali/Snake-Rush-X/releases/tag/v1.0
 
